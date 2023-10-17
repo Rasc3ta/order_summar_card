@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/Rasc3ta/order_summary_card)
-- Live Site URL: [live site](https://Rasc3ta.github.io/order_summary_card)
+- Solution URL: [github](https://github.com/Rasc3ta/order_summar_card)
+- Live Site URL: [live site](https://Rasc3ta.github.io/order_summar_card)
 
 ### Built with
 
